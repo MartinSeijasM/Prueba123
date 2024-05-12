@@ -1,7 +1,7 @@
                                                                
 |         **Accion de los actores**                 |                      **Respuesta del sistema**                                |
 | ------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **1.**  busca una pelicula                        | **2.** Sistema muestra los diferentes cines que estan emitiendo esa pelicula  |
+| **1.** Usuario busca una pelicula                 | **2.** Sistema muestra los diferentes cines que estan emitiendo esa pelicula  |
 | **3.** Usuario elige en que cine quiere reservar  | **4.** Sistema muestra las diferentes salas disponibles                       |
 | **5.** Usuario confirma la sala e ingresa el pago | **6.** Sistema procesa el pago y retorna la entrada digital                   |
 
