@@ -59,6 +59,8 @@
 | --- | --- |
 | **1.** Usuario abre el buscador de la aplicacion e ingresa su busqueda      | **2.** Sistema muestra las diferentes peliculas que comparten nombre con la busqueda del usuario o en caso de que el usuario busque un genero se muestran las peliculas de ese genero                                               |
 | **3.** Usuario elige una pelicula               | **4.** Sistema muestra en en una nueva ventana la informacion de la pelicula (elenco, genero, reseñas)                                           |
+
+
 |  **Cursos Alternativos:**  |
 | --- |                     
 | **1.1:** Si el sistema no encuentra una pelicula que se asemeje a lo buscado por el usuario, se le dira que el buscador no pudo encontrar lo que deseaba      |
