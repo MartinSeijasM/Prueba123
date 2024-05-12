@@ -1,5 +1,5 @@
 
-|     **Actor:** Usuario                                                                                                            |           
+|     **Actor:** Usuario                            |                                                                               |           
 | --------------------------------------------------------------------------------------------------------------------------------- |                                                      
 |         **Accion de los actores**                 |                      **Respuesta del sistema**                                |
 | **1.**  busca una pelicula                        | **2.** Sistema muestra los diferentes cines que estan emitiendo esa pelicula  |
