@@ -10,3 +10,25 @@
 | --- |
 | **3.1:** Sistema no encuentra salas disponibles y recomienda elegir otro cine                                                     |
 | **5.1:** Si el sistema no acepta el pago se pide que el usuario ingrese la informacion nuevamente                                 | 
+
+### Caso de uso 2:
+
+**Titulo:** Dar una reseña
+
+**Actor:** Usuario
+
+**Referencia a RF:** RF5
+
+**Curso normal**
+
+|         **Accion de los actores**                 |                      **Respuesta del sistema**                                                               |
+| --- | --- |
+| **1.** Usuario abre el catalogo de peliculas vistas      | **2.** Sistema muestra las diferentes peliculas disponibles que han sido vistas por el usuario                                                  |
+| **3.** Usuario elige una pelicula a reseñar              | **4.** Sistema abre el panel de reseñas y se lo muestra al usuario                                           |
+| **5.** Usuario ingresa su reseña                         | **6.** Sistema procesa la reseña, la almacena y luego la muestra en el apartado de rese;as                   |
+
+
+
+|  **Cursos Alternativos:**  |
+| --- |                                    |
+| **5.1:** Si el usuario no tiene conexion se avisa que no se puede subir su reseña y que lo intente mas tarde      |
